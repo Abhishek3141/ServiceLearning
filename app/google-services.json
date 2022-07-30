@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "62433968942",
+    "project_id": "service-learning-app-v-2",
+    "storage_bucket": "service-learning-app-v-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62433968942:android:5bcbc3cbc601262510f0bf",
+        "android_client_info": {
+          "package_name": "com.abhi.servicelearningappv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62433968942-m2akphnb1l3c8uvoj8afsug6mbfpomri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiIh4F-jlLPImicn7KWEnTmOK8UKb2dUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62433968942-m2akphnb1l3c8uvoj8afsug6mbfpomri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
